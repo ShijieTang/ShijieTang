@@ -7,7 +7,7 @@ I am pursuing a **Master of Science in Computational Biology** at **Carnegie Mel
 ## About Me
 <p align="left">
   <a href="mailto:shijiet@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/shijietang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shijietang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=DVN1GAQAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>
 </p>
 
