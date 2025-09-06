@@ -13,7 +13,7 @@ I am pursuing a **Master of Science in Computational Biology** at **Carnegie Mel
 
 **Education**  
 - **M.S. in Computational Biology**, Carnegie Mellon University *(Expected May 2026)*  
-- **B.S. in Biomedical Informatics**, Zhejiang University *(June 2024)*  
+- **B.S. in Bioinformatics**, Zhejiang University *(June 2024)*  
 - **B.S. in Biomedical Informatics**, University of Edinburgh *(June 2024)*  
 
 I focus on **AI-driven biological discovery**, **multi-omics integration**, and **genomics**:
