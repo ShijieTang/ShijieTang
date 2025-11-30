@@ -19,7 +19,7 @@ I am pursuing a **Master of Science in Computational Biology** at **Carnegie Mel
 I focus on **AI-driven biological discovery**, **multi-omics integration**, and **genomics**:
 
 - **Virtual Cell** — AI-powered gene perturbation prediction
-- **Shortcut in NLP** — Advanced algorithm for improving general NLP model performance
+- **Peerlearning for NLP shortcut** — Advanced algorithm for improving general NLP model performance
 - **mRNA Design** — generative modeling and scoring of optimized mRNA sequences  
 - **Multi-omics Data Integration** — Integrate single-cell RMAseq, bulk RNA-seq, ATAC-seq, ChIP-seq, and Cut&Tag data for analysis and computational model training
 - **Machine Learning in Biology** — predictive modeling, GNNs, LLMs, and algorithmic development  
@@ -40,7 +40,7 @@ I focus on **AI-driven biological discovery**, **multi-omics integration**, and 
 | **Project**                               | **Role**               | **Institution / Company**      | **Supervisor(s)**                          | **Date**              |
 | ---------------------------------------- | ---------------------- | ------------------------------ | ---------------------------------------- | --------------------- |
 | Virtual Cell                             | Project leader       | Carnegie Mellon University       | Prof. Wei Wu                           | Aug 2025 — present  |
-| Shortcut for NLP                         | Research Assistant   | Carnegie Mellon University       | Prof. Carl Kingsford                   | Aug 2025 — present  |
+| Peerlearning for NLP Shortcut            | Research Assistant   | Carnegie Mellon University       | Prof. Carl Kingsford                   | Aug 2025 — present  |
 | AI-powered Accessibility Validation     | SWE Intern            | Google                         | —                                        | Jun 2025 — Aug 2025  |
 | mRNA Design with Generative Models      | Research Assistant    | Carnegie Mellon University    | Prof. Carl Kingsford                     | Dec 2024 — Present   |
 | Protein Function Prediction            | Undergraduate Thesis | University College London     | Prof. Christine Orengo                   | Oct 2023 — May 2024  |
