@@ -18,9 +18,10 @@ I am pursuing a **Master of Science in Computational Biology** at **Carnegie Mel
 
 I focus on **AI-driven biological discovery**, **multi-omics integration**, and **genomics**:
 
-- **Virtual Cell** — AI-powered gene perturbation prediction  
+- **Virtual Cell** — AI-powered gene perturbation prediction
+- **Shortcut in NLP** — Advanced algorithm for improving general NLP model performance
 - **mRNA Design** — generative modeling and scoring of optimized mRNA sequences  
-- **Multi-omics Data Integration** — combining RNA-seq, ATAC-seq, ChIP-seq, and Cut&Tag data  
+- **Multi-omics Data Integration** — Integrate single-cell RMAseq, bulk RNA-seq, ATAC-seq, ChIP-seq, and Cut&Tag data for analysis and computational model training
 - **Machine Learning in Biology** — predictive modeling, GNNs, LLMs, and algorithmic development  
 
 ---
@@ -29,6 +30,8 @@ I focus on **AI-driven biological discovery**, **multi-omics integration**, and 
 
 - Y Tang, **S Tang.**, W Yang et al.  
   **"MED12 loss activates endogenous retroelements to sensitise immunotherapy in pancreatic cancer"**  *Gut (2024)* [ DOI: 10.1136/gutjnl-2024-332350](https://doi.org/10.1136/gutjnl-2024-332350)
+- J Li, L Liang, S Du, **S Tang**, H Lai, C Kingsford.
+  **"ARCADE: Controllable Codon Design from Foundation Models via Activation Engineering"**  *Pre-print (2025)* [DOI: 10.1101/2025.08.19.668819](https://www.biorxiv.org/content/10.1101/2025.08.19.668819v1?versioned=true)
 
 ---
 
@@ -36,6 +39,8 @@ I focus on **AI-driven biological discovery**, **multi-omics integration**, and 
 
 | **Project**                               | **Role**               | **Institution / Company**      | **Supervisor(s)**                          | **Date**              |
 | ---------------------------------------- | ---------------------- | ------------------------------ | ---------------------------------------- | --------------------- |
+| Virtual Cell                             | Project leader       | Carnegie Mellon University       | Prof. Wei Wu                           | Aug 2025 — present  |
+| Shortcut for NLP                         | Research Assistant   | Carnegie Mellon University       | Prof. Carl Kingsford                   | Aug 2025 — present  |
 | AI-powered Accessibility Validation     | SWE Intern            | Google                         | —                                        | Jun 2025 — Aug 2025  |
 | mRNA Design with Generative Models      | Research Assistant    | Carnegie Mellon University    | Prof. Carl Kingsford                     | Dec 2024 — Present   |
 | Protein Function Prediction            | Undergraduate Thesis | University College London     | Prof. Christine Orengo                   | Oct 2023 — May 2024  |
