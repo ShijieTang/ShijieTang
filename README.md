@@ -39,8 +39,8 @@ I focus on **AI-driven biological discovery**, **multi-omics integration**, and 
 
 | **Project**                               | **Role**               | **Institution / Company**      | **Supervisor(s)**                          | **Date**              |
 | ---------------------------------------- | ---------------------- | ------------------------------ | ---------------------------------------- | --------------------- |
-| Virtual Cell                             | Project leader       | Carnegie Mellon University       | Prof. Wei Wu                           | Aug 2025 — present  |
-| Peerlearning for NLP Shortcut            | Research Assistant   | Carnegie Mellon University       | Prof. Carl Kingsford                   | Aug 2025 — present  |
+| Virtual Cell Challenge                             | Project leader       | Carnegie Mellon University       | Dr. Wei Wu                           | Aug 2025 — present  |
+| Peerlearning for NLP Shortcut            | Research Assistant   | Carnegie Mellon University       | Prof. Carl Kingsford                   | Aug 2025 — Mar 2026  |
 | AI-powered Accessibility Validation     | SWE Intern            | Google                         | —                                        | Jun 2025 — Aug 2025  |
 | mRNA Design with Generative Models      | Research Assistant    | Carnegie Mellon University    | Prof. Carl Kingsford                     | Dec 2024 — Present   |
 | Protein Function Prediction            | Undergraduate Thesis | University College London     | Prof. Christine Orengo                   | Oct 2023 — May 2024  |
